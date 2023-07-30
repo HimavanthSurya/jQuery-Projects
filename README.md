@@ -1,6 +1,6 @@
 # jQuery-Projects
 
-- Attribute-Based Selectors
+- __Attribute-Based Selectors__
   - [attribute]
   - [attribute=value] --> $("[id = first]")
   - [attribute != value]
